@@ -1,0 +1,17 @@
+.model jclin1
+.inputs a b
+.outputs c d e f
+.names a b c
+1- 1
+-1 1
+.names a b d
+0- 1
+-1 1
+.names a b e
+1- 1
+-0 1
+.names a b f
+0- 1
+-0 1
+.end
+
